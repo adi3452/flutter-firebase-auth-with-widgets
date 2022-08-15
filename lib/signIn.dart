@@ -27,7 +27,7 @@ class _SignInWidgetState extends State<SignInWidget> {
                     alignment: Alignment.center,
                     padding: const EdgeInsets.all(15),
                     child: const Text(
-                      'Click Here to Login',
+                      'Login Screen',
                       style: TextStyle(
                           color: Color.fromARGB(255, 95, 97, 97),
                           fontWeight: FontWeight.w500,
