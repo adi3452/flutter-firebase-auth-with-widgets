@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started - Download project and run in VS code
+
+Step 1 : flutter run --no-sound-null-safety   
+
+Make sure andriod emulator is setup in VS code
 
 This project is a starting point for a Flutter application.
 
